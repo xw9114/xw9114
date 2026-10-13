@@ -1,18 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="360" height="260" viewBox="0 0 360 260" role="img" aria-labelledby="title desc">
-  <title id="title">A small coding cat</title>
-  <desc id="desc">A friendly orange cat sitting beside a small laptop.</desc>
-  <rect width="360" height="260" rx="20" fill="#fff8e7"/>
-  <ellipse cx="180" cy="224" rx="112" ry="14" fill="#e8d8b7"/>
-  <path d="M96 184c-30 4-48-8-43-29 4-15 22-20 42-10" fill="none" stroke="#d9822b" stroke-width="13" stroke-linecap="round"/>
-  <path d="M116 73 104 29l39 27c12-5 28-7 39-4l38-27-9 48c17 15 27 37 27 62 0 48-31 82-78 82s-78-34-78-82c0-25 10-47 34-62Z" fill="#f2a541" stroke="#4a2c1a" stroke-width="6" stroke-linejoin="round"/>
-  <path d="M130 88c-12 0-23 10-23 24s11 23 23 23 23-10 23-23-10-24-23-24Z" fill="#fff" stroke="#4a2c1a" stroke-width="5"/>
-  <path d="M194 88c-12 0-23 10-23 24s11 23 23 23 23-10 23-23-11-24-23-24Z" fill="#fff" stroke="#4a2c1a" stroke-width="5"/>
-  <circle cx="132" cy="111" r="7" fill="#232323"/>
-  <circle cx="192" cy="111" r="7" fill="#232323"/>
-  <path d="M160 122l-8 7h16l-8-7Zm0 7v11m0 0-10 5m10-5 10 5" fill="none" stroke="#4a2c1a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M111 132 83 126m29 18-28 4m158-16 28-6m-29 20 28 4" fill="none" stroke="#4a2c1a" stroke-width="3" stroke-linecap="round"/>
-  <path d="M135 169v37m30-37v37m30-37v37" fill="none" stroke="#4a2c1a" stroke-width="7" stroke-linecap="round"/>
-  <rect x="228" y="163" width="82" height="45" rx="5" fill="#5e81ac" stroke="#26384d" stroke-width="5"/>
-  <path d="M216 211h106" stroke="#26384d" stroke-width="7" stroke-linecap="round"/>
-  <path d="M241 176h56m-56 12h38" stroke="#dbeafe" stroke-width="4" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="330" viewBox="0 0 420 330" role="img" aria-labelledby="title desc">
+  <title id="title">A kawaii cream cat</title>
+  <desc id="desc">A round cream-colored chibi cat with rosy cheeks, tiny paws, a pink heart, and a curled tail.</desc>
+
+  <ellipse cx="213" cy="300" rx="125" ry="17" fill="#d8dee4" opacity="0.45"/>
+  <path d="M304 238c53 4 66-32 45-49-15-13-35-2-28 14 4 10 17 8 21 0" fill="none" stroke="#7a5a50" stroke-width="25" stroke-linecap="round"/>
+  <path d="M304 238c53 4 66-32 45-49-15-13-35-2-28 14 4 10 17 8 21 0" fill="none" stroke="#f7d9a9" stroke-width="17" stroke-linecap="round"/>
+
+  <ellipse cx="213" cy="229" rx="98" ry="79" fill="#fff0c9" stroke="#7a5a50" stroke-width="7"/>
+  <path d="M150 231c-22 12-30 38-18 54 11 14 37 10 48-13" fill="#fff0c9" stroke="#7a5a50" stroke-width="7" stroke-linecap="round"/>
+  <path d="M276 231c22 12 30 38 18 54-11 14-37 10-48-13" fill="#fff0c9" stroke="#7a5a50" stroke-width="7" stroke-linecap="round"/>
+  <ellipse cx="155" cy="278" rx="28" ry="22" fill="#fff7df" stroke="#7a5a50" stroke-width="6"/>
+  <ellipse cx="271" cy="278" rx="28" ry="22" fill="#fff7df" stroke="#7a5a50" stroke-width="6"/>
+  <circle cx="148" cy="276" r="5" fill="#f59fb2"/>
+  <circle cx="160" cy="270" r="5" fill="#f59fb2"/>
+  <circle cx="172" cy="276" r="5" fill="#f59fb2"/>
+  <circle cx="264" cy="276" r="5" fill="#f59fb2"/>
+  <circle cx="276" cy="270" r="5" fill="#f59fb2"/>
+  <circle cx="288" cy="276" r="5" fill="#f59fb2"/>
+
+  <path d="M126 108 117 47l57 34c14-7 65-7 79 0l57-34-10 62c18 18 29 43 29 70 0 66-51 105-116 105S97 245 97 179c0-28 11-53 29-71Z" fill="#fff0c9" stroke="#7a5a50" stroke-width="7" stroke-linejoin="round"/>
+  <path d="m128 67 36 22-30 17Z" fill="#f7b5bd"/>
+  <path d="m298 67-36 22 30 17Z" fill="#f7b5bd"/>
+  <path d="M179 78c15-7 54-7 69 0" fill="none" stroke="#f2c27b" stroke-width="8" stroke-linecap="round"/>
+  <path d="M197 65v25m31-25v25" fill="none" stroke="#f2c27b" stroke-width="7" stroke-linecap="round"/>
+
+  <ellipse cx="164" cy="158" rx="25" ry="31" fill="#55423d"/>
+  <ellipse cx="262" cy="158" rx="25" ry="31" fill="#55423d"/>
+  <ellipse cx="157" cy="148" rx="9" ry="12" fill="#fff"/>
+  <ellipse cx="255" cy="148" rx="9" ry="12" fill="#fff"/>
+  <circle cx="173" cy="170" r="5" fill="#fff"/>
+  <circle cx="271" cy="170" r="5" fill="#fff"/>
+
+  <ellipse cx="133" cy="204" rx="25" ry="14" fill="#f7b5bd" opacity="0.9"/>
+  <ellipse cx="293" cy="204" rx="25" ry="14" fill="#f7b5bd" opacity="0.9"/>
+  <path d="m213 184-11 8c5 7 17 7 22 0Z" fill="#e98c9f" stroke="#7a5a50" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M213 198v8m0 0c-9 0-14 5-14 11m14-11c9 0 14 5 14 11" fill="none" stroke="#7a5a50" stroke-width="5" stroke-linecap="round"/>
+  <path d="M129 184 73 173m57 29-58 5m225-23 56-11m-57 29 58 5" fill="none" stroke="#7a5a50" stroke-width="4" stroke-linecap="round"/>
+
+  <path d="M62 92c0-17 21-25 32-10 11-15 32-7 32 10 0 22-32 40-32 40S62 114 62 92Z" fill="#ff8fa3" stroke="#7a5a50" stroke-width="5"/>
+  <path d="m344 89 6 13 14 2-10 10 3 14-13-7-13 7 3-14-10-10 14-2Z" fill="#ffd166" stroke="#7a5a50" stroke-width="4" stroke-linejoin="round"/>
+  <circle cx="72" cy="152" r="7" fill="#ffd166"/>
+  <circle cx="352" cy="154" r="7" fill="#ff8fa3"/>
 </svg>
