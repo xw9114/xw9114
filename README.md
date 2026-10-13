@@ -12,7 +12,7 @@ I'm a Python developer and AI explorer who enjoys turning ideas into practical p
 - 💬 Feedback, issues, and pull requests are always welcome
 
 <div align="center">
-  <img src="./assets/pet.svg" width="180" alt="A small coding cat" />
+  <img src="./assets/pet.svg" width="300" alt="A small coding cat" />
 </div>
 
 ## Tech Stack
