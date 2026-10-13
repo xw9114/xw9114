@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="260" viewBox="0 0 360 260" role="img" aria-labelledby="title desc">
+  <title id="title">A small coding cat</title>
+  <desc id="desc">A friendly orange cat sitting beside a small laptop.</desc>
+  <rect width="360" height="260" rx="20" fill="#fff8e7"/>
+  <ellipse cx="180" cy="224" rx="112" ry="14" fill="#e8d8b7"/>
+  <path d="M96 184c-30 4-48-8-43-29 4-15 22-20 42-10" fill="none" stroke="#d9822b" stroke-width="13" stroke-linecap="round"/>
+  <path d="M116 73 104 29l39 27c12-5 28-7 39-4l38-27-9 48c17 15 27 37 27 62 0 48-31 82-78 82s-78-34-78-82c0-25 10-47 34-62Z" fill="#f2a541" stroke="#4a2c1a" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M130 88c-12 0-23 10-23 24s11 23 23 23 23-10 23-23-10-24-23-24Z" fill="#fff" stroke="#4a2c1a" stroke-width="5"/>
+  <path d="M194 88c-12 0-23 10-23 24s11 23 23 23 23-10 23-23-11-24-23-24Z" fill="#fff" stroke="#4a2c1a" stroke-width="5"/>
+  <circle cx="132" cy="111" r="7" fill="#232323"/>
+  <circle cx="192" cy="111" r="7" fill="#232323"/>
+  <path d="M160 122l-8 7h16l-8-7Zm0 7v11m0 0-10 5m10-5 10 5" fill="none" stroke="#4a2c1a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M111 132 83 126m29 18-28 4m158-16 28-6m-29 20 28 4" fill="none" stroke="#4a2c1a" stroke-width="3" stroke-linecap="round"/>
+  <path d="M135 169v37m30-37v37m30-37v37" fill="none" stroke="#4a2c1a" stroke-width="7" stroke-linecap="round"/>
+  <rect x="228" y="163" width="82" height="45" rx="5" fill="#5e81ac" stroke="#26384d" stroke-width="5"/>
+  <path d="M216 211h106" stroke="#26384d" stroke-width="7" stroke-linecap="round"/>
+  <path d="M241 176h56m-56 12h38" stroke="#dbeafe" stroke-width="4" stroke-linecap="round"/>
+</svg>

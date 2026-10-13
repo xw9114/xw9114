@@ -11,6 +11,10 @@ I'm a Python developer and AI explorer who enjoys turning ideas into practical p
 - 🧩 Interested in open source, reproducible experiments, and useful developer tools
 - 💬 Feedback, issues, and pull requests are always welcome
 
+<div align="center">
+  <img src="./assets/pet.svg" width="180" alt="A small coding cat" />
+</div>
+
 ## Tech Stack
 
 <p>
